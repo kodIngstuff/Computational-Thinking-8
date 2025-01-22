@@ -14,7 +14,7 @@ England_points = 0
 Brazil_points = 0
 #Middle
 
-answer = input("On a sunny day would you rather A) play video games, B) go outside to a historical monument, C) go to your favorite hamburger stand,D) dance in the streets, E) salute King Charles III, or E) hang out at the beach\n")
+answer = input("On a sunny day would you rather A) play video games, B) go outside to a historical monument, C) go to your favorite hamburger stand,D) dance in the streets, E) salute King Charles III, or Fee) hang out at the beach\n")
 if answer == "A":
     japan_points += 1
     hawaii_points -=1
